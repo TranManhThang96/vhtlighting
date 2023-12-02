@@ -1,5 +1,5 @@
 # Change to the project directory
-cd /var/www/littlek
+cd /var/www/vhtlighting
 
 # Pull the latest changes from the git repository
 # git reset --hard
